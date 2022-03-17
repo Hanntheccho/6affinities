@@ -2,7 +2,7 @@ questions = [
     {
         "question": "Humanity is inherently flawed in at least one regard.",
         "effect": {
-            "econ": 10,
+            "econ": 20,
             "dipl": -5,
             "govt": 0
         }
@@ -10,7 +10,7 @@ questions = [
     {
         "question": "Today's world is inferior to at least one time period that came before.",
         "effect": {
-            "econ": -10,
+            "econ": -20,
             "dipl": 0,
             "govt": 0
         }
@@ -18,7 +18,7 @@ questions = [
     {
         "question": "History as a subject is as useful to modern society as the hard sciences.",
         "effect": {
-            "econ": -10,
+            "econ": -20,
             "dipl": 0,
             "govt": 5
         }
@@ -26,7 +26,7 @@ questions = [
     {
         "question": "Maintaining cultural values is important, even if those values interfere with a people's ability to survive.",
         "effect": {
-            "econ": -10,
+            "econ": -20,
             "dipl": 0,
             "govt": 5
         }
@@ -34,7 +34,7 @@ questions = [
     {
         "question": "Earth is inherently more important to humanity than any other planet.",
         "effect": {
-            "econ": -10,
+            "econ": -20,
             "dipl": 5,
             "govt": 5
         }
@@ -44,7 +44,7 @@ questions = [
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": -10
+            "govt": -20
         }
     },
     {
@@ -52,7 +52,7 @@ questions = [
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": -10
+            "govt": -20
         }
     },
     {
@@ -66,7 +66,7 @@ questions = [
     {
         "question": "Humanity is inherently special.",
         "effect": {
-            "econ": -10,
+            "econ": -20,
             "dipl": 0,
             "govt": 5
         }
@@ -74,7 +74,7 @@ questions = [
     {
         "question": "If possible, I would accept bodily augmentations such as mechanical limbs or brain implants.",
         "effect": {
-            "econ": 10,
+            "econ": 20,
             "dipl": 0,
             "govt": -5
         }
@@ -90,7 +90,7 @@ questions = [
     {
         "question": "Body augmentations diminish our humanity.",
         "effect": {
-            "econ": 10,
+            "econ": 20,
             "dipl": 0,
             "govt": 5
         }
@@ -108,13 +108,13 @@ questions = [
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": -10
+            "govt": -20
         }
     },
     {
         "question": "It is acceptable to genetically or mechanically modify other species.",
         "effect": {
-            "econ": 10,
+            "econ": 20,
             "dipl": -5,
             "govt": 0
         }
@@ -138,7 +138,7 @@ questions = [
     {
         "question": "The current human form is the ultimate form that a living being can have, and any modification deviates from that perfection.",
         "effect": {
-            "econ": -10,
+            "econ": -20,
             "dipl": 0,
             "govt": 5
         }
@@ -147,7 +147,7 @@ questions = [
         "question": "The needs of human settlers outweigh the importance of maintaining an environment's biodiversity.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": -20,
             "govt": 0
         }
     },
@@ -155,7 +155,7 @@ questions = [
         "question": "The well-being of the Earth should be prioritized over space colonization.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 0
         }
     },
@@ -171,7 +171,7 @@ questions = [
         "question": "Industrial pollution is an acceptable sacrifice for the sustainability of the modern world.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": -20,
             "govt": 0
         }
     },
@@ -195,7 +195,7 @@ questions = [
         "question": "I try to recycle whenever possible.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 0
         }
     },
@@ -203,7 +203,7 @@ questions = [
         "question": "Government regulations to protect the environment are justified.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 0
         }
     },
@@ -211,7 +211,7 @@ questions = [
         "question": "Climate change is the greatest threat to the well-being of modern society.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 0
         }
     },
@@ -220,7 +220,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10
+            "govt": -20
         }
     },
     {
@@ -228,7 +228,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10
+            "govt": 20
         }
     },
     {
@@ -236,7 +236,7 @@ questions = [
         "effect": {
             "econ": -5,
             "dipl": 0,
-            "govt": 10
+            "govt": 20
         }
     },
     {
@@ -244,7 +244,7 @@ questions = [
         "effect": {
             "econ": -5,
             "dipl": 0,
-            "govt": 10
+            "govt": 20
         }
     },
     {
@@ -252,7 +252,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10
+            "govt": -20
         }
     },
     {
@@ -260,7 +260,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10
+            "govt": 20
         }
     },
     {
@@ -268,7 +268,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10
+            "govt": 20
         }
     }
 ];
