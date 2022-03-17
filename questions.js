@@ -176,11 +176,35 @@ questions = [
         }
     },
     {
+        "question": "Building dikes is the most optimal way to control and adapt to rising tides.",
+        "effect": {
+            "econ": 0,
+            "dipl": -20,
+            "govt": 0
+        }
+    },
+    {
+        "question": "Building dams or modifying land for human benefit is usually optimal.",
+        "effect": {
+            "econ": 0,
+            "dipl": -20,
+            "govt": 0
+        }
+    },
+    {
+        "question": "Creating large areas of crops and livestock that are resilient to adverse changes is more important than preserving biodiversity.",
+        "effect": {
+            "econ": 0,
+            "dipl": -20,
+            "govt": 0
+        }
+    },
+    {
         "question": "An agrarian life is superior to an urban one.",
         "effect": {
             "econ": 0,
-            "dipl": 5,
-            "govt": 5
+            "dipl": 20,
+            "govt": 20
         }
     },
     {
