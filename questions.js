@@ -96,7 +96,7 @@ questions = [
         }
     },
     {
-        "question": "Natural disasters caused by humans are errors of the human condition.",
+        "question": "Disasters caused by humans are errors of the human condition.",
         "effect": {
             "econ": 5,
             "dipl": 5,
@@ -176,7 +176,7 @@ questions = [
         }
     },
     {
-        "question": "Building dikes is the most optimal way to control and adapt to rising tides.",
+        "question": "Building floodwalls is the most optimal way to control and adapt to rising tides.",
         "effect": {
             "econ": 0,
             "dipl": -20,
