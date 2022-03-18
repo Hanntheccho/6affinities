@@ -192,7 +192,7 @@ questions = [
         }
     },
     {
-        "question": "Creating large areas of crops and livestock that are resilient to adverse changes is more important than preserving biodiversity.",
+        "question": "Creating large areas of crops and livestock that are resilient to adverse changes is more optimal than having to preserve biodiversity.",
         "effect": {
             "econ": 0,
             "dipl": 20,
