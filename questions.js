@@ -69,7 +69,6 @@ questions = [
             "econ": 20,
             "dipl": 0,
             "govt": -10
-
         }
     },
     {
