@@ -3,7 +3,7 @@ questions = [
         "question": "Humanity is inherently flawed in at least one regard.",
         "effect": {
             "econ": -20,
-            "dipl": -5,
+            "dipl": 5,
             "govt": 5
         }
     },
@@ -35,7 +35,7 @@ questions = [
         "question": "Earth is inherently more important to humanity than any other planet.",
         "effect": {
             "econ": 20,
-            "dipl": -10,
+            "dipl": 10,
             "govt": -5
         }
     },
@@ -99,7 +99,7 @@ questions = [
         "question": "Disasters caused by humans are errors of the human condition.",
         "effect": {
             "econ": -20,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0
         }
     },
@@ -115,7 +115,7 @@ questions = [
         "question": "It is acceptable to genetically or mechanically modify other species.",
         "effect": {
             "econ": -5,
-            "dipl": 20,
+            "dipl": -20,
             "govt": 0
         }
     },
@@ -147,7 +147,7 @@ questions = [
         "question": "The needs of human settlers outweigh the importance of maintaining an environment's biodiversity.",
         "effect": {
             "econ": 0,
-            "dipl": 20,
+            "dipl": -20,
             "govt": 0
         }
     },
@@ -155,7 +155,7 @@ questions = [
         "question": "The well-being of the Earth should be prioritized over space colonization.",
         "effect": {
             "econ": 0,
-            "dipl": -20,
+            "dipl": 20,
             "govt": 0
         }
     },
@@ -163,7 +163,7 @@ questions = [
         "question": "If an alien species is discovered, it should be respected and preserved regardless of its intelligence or attitude towards humanity.",
         "effect": {
             "econ": -5,
-            "dipl": -5,
+            "dipl": 5,
             "govt": 0
         }
     },
@@ -171,7 +171,7 @@ questions = [
         "question": "Industrial pollution is an acceptable sacrifice for the sustainability of the modern world.",
         "effect": {
             "econ": 0,
-            "dipl": 20,
+            "dipl": -20,
             "govt": 0
         }
     },
@@ -179,7 +179,7 @@ questions = [
         "question": "Building floodwalls is the most optimal way to control and adapt to rising tides.",
         "effect": {
             "econ": 0,
-            "dipl": 20,
+            "dipl": -20,
             "govt": 0
         }
     },
@@ -187,7 +187,7 @@ questions = [
         "question": "Building dams or modifying land for human benefit is usually optimal.",
         "effect": {
             "econ": 0,
-            "dipl": 20,
+            "dipl": -20,
             "govt": 0
         }
     },
@@ -195,7 +195,7 @@ questions = [
         "question": "Creating large areas of crops and livestock that are resilient to adverse changes is more optimal than having to preserve biodiversity.",
         "effect": {
             "econ": 0,
-            "dipl": 20,
+            "dipl": -20,
             "govt": 0
         }
     },
@@ -203,7 +203,7 @@ questions = [
         "question": "An agrarian life is superior to an urban one.",
         "effect": {
             "econ": 0,
-            "dipl": -20,
+            "dipl": 20,
             "govt": -20
         }
     },
@@ -219,7 +219,7 @@ questions = [
         "question": "I try to recycle whenever possible.",
         "effect": {
             "econ": 0,
-            "dipl": -20,
+            "dipl": 20,
             "govt": 0
         }
     },
@@ -227,7 +227,7 @@ questions = [
         "question": "Government regulations to protect the environment are justified.",
         "effect": {
             "econ": 0,
-            "dipl": -20,
+            "dipl": 20,
             "govt": 0
         }
     },
@@ -235,7 +235,7 @@ questions = [
         "question": "Climate change is the greatest threat to the well-being of modern society.",
         "effect": {
             "econ": 0,
-            "dipl": -20,
+            "dipl": 20,
             "govt": 0
         }
     },
